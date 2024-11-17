@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/https//bhanu123492.github.io/users-board/static/css/main.4c79a2a5.css",
+    "main.js": "/https//bhanu123492.github.io/users-board/static/js/main.80b0c65a.js",
+    "index.html": "/https//bhanu123492.github.io/users-board/index.html",
+    "main.4c79a2a5.css.map": "/https//bhanu123492.github.io/users-board/static/css/main.4c79a2a5.css.map",
+    "main.80b0c65a.js.map": "/https//bhanu123492.github.io/users-board/static/js/main.80b0c65a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4c79a2a5.css",
+    "static/js/main.80b0c65a.js"
+  ]
+}
